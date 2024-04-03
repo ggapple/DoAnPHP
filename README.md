@@ -5,8 +5,14 @@
 <h3>Website thương mại điện tử bán giày</h3>
 <h1>NHÓM 6</h1>
 <h3>Thành viên</h3>
-20071341	Nguyễn Minh	Ý <br>
-20064531	Nguyễn Tuấn	Nghĩa <br>
-18083971	Lê Tường	Quy <br>
-20065131	Nguyễn Đình	Phong <br>
-20067821	Mạch Vĩnh	Thuận <br>
+Nguyễn Minh	Ý <br>
+Nguyễn Tuấn	Nghĩa <br>
+Lê Tường	Quy <br>
+Nguyễn Đình	Phong <br>
+Mạch Vĩnh	Thuận <br>
+<hr>
+<h3>Ngôn ngữ sử dụng</h3>
+- PHP
+- HTML
+- CSS
+- JS
