@@ -12,7 +12,9 @@ Nguyễn Đình	Phong <br>
 Mạch Vĩnh	Thuận <br>
 <hr>
 <h3>Ngôn ngữ sử dụng</h3>
-- PHP
-- HTML
-- CSS
-- JS
+<ul>
+  <li>PHP</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+</ul>
